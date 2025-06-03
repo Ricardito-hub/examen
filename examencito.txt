@@ -1,0 +1,11 @@
+conceptos 
+este la verdad solo me acuerdo de los comandos 
+git init = es para crear como el enlace 
+git remote add origin URL = que es para que se conecte al repositorio 
+git add . = para agregar los documentos que vamos a subir 
+git commit -m "Comentario" = Para realizar un comentario en el repositorio
+git push origin master= ya para subir los documentos
+rmdir/s = que es para borrar el repositorio
+git branch= para crear una rama
+git ignore que es para ignorar un archivo en especifico 
+git checkout= Es para cambiar de rama
